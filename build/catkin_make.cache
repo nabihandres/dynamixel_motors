@@ -1,0 +1,2 @@
+Tutorial-Dynamixel-Motors/dynamixel_workbench:Tutorial-Dynamixel-Motors/dynamixel_workbench_controllers:Tutorial-Dynamixel-Motors/dynamixel_workbench_operators:Tutorial-Dynamixel-Motors/dynamixel_workbench_toolbox
+-DCATKIN_DEVEL_PREFIX=/home/nabih/dynamixel/devel -DCMAKE_INSTALL_PREFIX=/home/nabih/dynamixel/install -G Unix Makefiles

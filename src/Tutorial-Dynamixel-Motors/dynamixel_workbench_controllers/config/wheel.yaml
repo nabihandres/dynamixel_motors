@@ -1,0 +1,19 @@
+LeftFront:
+  ID: 1
+  Return_Delay_Time: 0
+  Operating_Mode: 1
+  Profile_Acceleration: 0
+  Profile_Velocity: 0
+
+
+
+
+
+# This set is for protocol 1 dynamixel.
+# If you want to use protocol 2 dynamixel, use this form.
+#(Name):
+#  ID: 2
+#  Return_Delay_Time: 0
+#  Operating_Mode: 1
+#  Profile_Acceleration: 0
+#  Profile_Velocity: 0

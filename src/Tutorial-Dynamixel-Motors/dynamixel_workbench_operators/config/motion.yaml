@@ -1,0 +1,9 @@
+joint:
+  names: [pan]
+motion:
+  names: [right]
+  right:
+    step: [-1.57]  # radian
+    time_from_start: 1  # sec
+ 
+
